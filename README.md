@@ -29,13 +29,7 @@
 
 ### Running the Service
 
-1.  **Navigate to the `app` directory:**
-
-    ```bash
-    cd app
-    ```
-
-2.  **Run the FastAPI application using Uvicorn:**
+1.  **Run the FastAPI application using Uvicorn:**
 
     ```bash
     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
