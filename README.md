@@ -134,10 +134,3 @@ Once the service is running, you can access the interactive API documentation at
       "timestamp": 1678886400.123
     }
     ```
-
-## Testing
-
-To run the tests, navigate to the project root directory and execute pytest:
-
-```bash
-pytest tests/
