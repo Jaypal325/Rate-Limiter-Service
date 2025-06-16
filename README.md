@@ -10,7 +10,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/rate-limiter-service.git](https://github.com/your-username/rate-limiter-service.git)
+    git clone https://github.com/Jaypal325/Rate-Limiter-Service.git
     cd rate-limiter-service
     ```
 
